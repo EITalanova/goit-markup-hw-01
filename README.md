@@ -1,6 +1,4 @@
-# goit-markup-hw-01 (WebStudio)
-
-The project was created as part of the Full stack developer (GOIT) courses.
-# Applied technologies:
-
-* HTML basics
+# goit-markup-hw-01
+The project was created as part of the Full stack developer (GOIT) courses. <br>
+<b>Name:</b> WebStudio<br>
+<b>Project theme:</b> Basics of HTML
